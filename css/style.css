@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+background: #93df07;
+box-shadow:  36px 36px 72px #7dbe06, 
+             -36px -36px 72px #a9ff08;
+
+}
+.container{
+
+/* height: auto; */
+
+padding: 100px 50px;
+
+margin: 100px auto;
+
+width: 1502px;
+
+overflow: hidden;
+}
+p{
+	font-size: 25px;
+	line-height: 1.5;
+}	
+.box{
+	width: 33.3%;
+	float: left;
+	padding: 20px;
+	
+}
+article{
+	
+
+	
+padding: 82px 35px;
+	
+border-radius: 50px;
+background: #93df07;
+box-shadow:  36px 36px 72px #7dbe06, 
+             -36px -36px 72px #a9ff08;
+}
